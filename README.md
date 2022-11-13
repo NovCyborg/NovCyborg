@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on learining and guidnace
-- 📫 How to reach me at my mail id
+- 📫 How to reach me at my mail id november_cyborg@gmail.com
 
 <!---
 NovCyborg/NovCyborg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
